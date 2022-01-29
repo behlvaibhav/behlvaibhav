@@ -1,6 +1,6 @@
 ## Hey Y'all, I'm Vaibhav 👋
 
-I am an aspiring Data Scientist with a Master's Degree in Computer Science from University College Dublin. I am currently based in Dublin, working for a dublin based organization as an AI & Data Analyst. I have a true zeal for data science and machine learning. I’m continuously looking for ways to self-improve. 
+I am an aspiring Data Scientist with a Master's Degree in Computer Science from University College Dublin. I am currently based in Dublin, working for Jaguar Land Rover as Data Visualization Engineer. I have a true zeal for data science and machine learning. I’m continuously looking for ways to self-improve. 
 
 #### TECHNICAL SKILLS: 
 - **Languages:** Python, SQL 
