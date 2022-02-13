@@ -7,6 +7,6 @@ I am an aspiring Data Scientist with a Master's Degree in Computer Science from 
 - **Databases:** MySQL, Microsoft SQL Server
 - **Libraries:** Pandas, NumPy, Scikit-learn, Tensorflow, Keras, OpenCV, Matplotlib, NLTK, Plotly, Seaborn, Mlxtend, PyTorch, Beautiful Soup, NeuralProphet
 - **Framework:** Dash
-- **Data Visualization and other tools:** Tableau, Power BI, Jupyter Notebook, MS Excel, Power Automate, Power Apps, Power Query
+- **Data Visualization and other tools:** Tableau, Power BI, Jupyter Notebook, MS Excel, Power Automate, Power Apps, Power Query, Big Query
 
 Please do check out my [portfolio.](https://behlvaibhav.github.io/)
