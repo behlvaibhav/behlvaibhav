@@ -5,7 +5,7 @@ I'm a Data Scientist with a Master's Degree in Computer Science from University 
 #### TECHNICAL SKILLS: 
 - **Languages:** Python, SQL 
 - **Databases:** MySQL, Microsoft SQL Server
-- **Libraries:** Pandas, NumPy, Scikit-learn, Tensorflow, Keras, OpenCV, Matplotlib, NLTK, Plotly, Seaborn, Mlxtend, PyTorch, Beautiful Soup, NeuralProphet, Llamaindex, spaCy
+- **Libraries:** Pandas, NumPy, Scikit-learn, Tensorflow, Keras, OpenCV, Matplotlib, NLTK, Plotly, Seaborn, Mlxtend, PyTorch, Beautiful Soup, NeuralProphet, Llamaindex, spaCy, Gensim, Transformers
 - **Framework:** Dash
 - **Cloud Platforms:** GCP, AWS
 - **Data Visualization and other tools:** Tableau, Power BI, Jupyter Notebook, MS Excel, Power Automate, Power Apps, Power Query
